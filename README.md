@@ -11,7 +11,7 @@ Developed a responsive and user-friendly BMI Calculator that allows users to inp
 <h4>Key learnings</h4>
 ➡ Gained hands-on experience with JavaScript's DOM manipulation and Event handling.<br>
 ➡ Enhanced skills in creating visually appealing animations <br>
-➡ improved understanding of user input, data validation and data processing.<br>
+➡ improved understanding of user input, data validation and data processing.<br><br>
 
 <b>Projects Screenshots/images</b>
 
