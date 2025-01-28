@@ -19,6 +19,8 @@ Developed a responsive and user-friendly BMI Calculator that allows users to inp
 
 ![image alt](https://github.com/Muskan-codebase/BMI-Calculator/blob/eb928b9fa934a7d217f5174c106224f766dcf2fb/calculator1.JPG)
 
+![image alt](https://github.com/Muskan-codebase/BMI-Calculator/blob/15d0e2085dba6263ebccd5262c27bd08d91927b7/calculator2.JPG)
+
 
 
 
