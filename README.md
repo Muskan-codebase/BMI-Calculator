@@ -8,7 +8,7 @@ Developed a responsive and user-friendly BMI Calculator that allows users to inp
 ➡ Provides clear and immediate results on the users BMI classification (eg. Underweight, normal weight, overweight, obese)<br>
 ➡ Provides health recommendations & diet plan based on an individuals weight category<br>
 
-<h4>Key learnings</h4><br>
+<h4>Key learnings</h4>
 ➡ Gained hands-on experience with JavaScript's DOM manipulation and Event handling.<br>
 ➡ Enhanced skills in creating visually appealing animations <br>
 ➡ improved understanding of user input, data validation and data processing.<br>
