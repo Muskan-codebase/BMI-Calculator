@@ -1,0 +1,80 @@
+body {
+    background-image: url("images/wallpaper.avif");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#intro {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 15px 20px;
+    margin-top: 5%;
+}
+
+pre {
+    position: relative;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 1.9rem;
+    top: 25px;
+    animation-name: content;
+    animation-duration: 1.5s;
+}
+
+h1 {
+    font-family:Arial, Helvetica, sans-serif;
+    text-shadow: 5px 5px 10px grey;
+    color: maroon;
+    font-size: 3rem;
+    position: relative;
+    animation-name: title;
+    animation-duration: 1s;
+    top: 50px;
+}
+
+#btn-container {
+    text-align: center;
+    border: none;
+}
+
+#button{
+    margin-top: 5%;
+    background-color: rgb(0, 89, 255);
+    border: none;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    padding: 10px 15px;
+    border-radius: 5px;
+    animation-name: display;
+    animation-iteration-count: initial;
+    animation-duration: 2s;
+}
+
+#button:hover{
+    cursor:pointer;
+    background-color: blue;
+}
+
+#button:active{
+    background-color: darkblue;
+}
+
+@keyframes title {
+
+    from{top: 150px;}
+    to{top: 50px;}
+}
+
+@keyframes content {
+    from{top: 150px;}
+    to{top: 25px;}
+}
+
+@keyframes display{
+
+    from{opacity: 0;}
+    to{opacity: 1;}
+}

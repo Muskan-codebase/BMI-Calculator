@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BMI Calculator</title>
+    <link rel="stylesheet" href="calculator.css">
+</head>
+<body>
+    <!--BMI Title-->
+    <h1 id="heading">BMI Calculator</h1>
+    <img src="images/body_mass_index.jpg" alt="" class="center">
+    <div id="progress-container" style="width: 100%; background-color: #eee; border: 1px solid #ccc;
+    height: 20px; border-radius: 10px;">
+    <div id="progress-bar" style="width: 0%; background: #4caf50; height: 100%; border-radius:10px;"></div>
+    </div>
+
+    <!--Calculator-->
+    <div id="container">
+        <label for="" class="input">Name:</label>
+        <input type="text" placeholder="Fullname" id="name" required><br><br>
+
+        <label for="" class="input">Height:</label>
+        <input type="number" id="height" placeholder="Height in feet" step="0.1" required><br>
+
+        <button id="btn-feet">In feet</button><button id="btn-m">In metres</button><br>
+
+        <label for="" class="input">Weight:</label>
+        <input type="text" placeholder="Weight in kgs" id="weight" required><br>
+        
+        <a href="index.html"><button id="button">Exit</button></a>
+        <button type="submit" id="button" onclick="calculate()">Calculate</button>
+        <button id="button" onclick="reset()">Reset</button><br>
+        <p id="error"></p>
+    </div>
+
+    <!--BMI Result-->
+    <div id="result">
+        <h4 id="title"></h4>
+        <p id="bmi_result"></p>
+        <p id="health_category"><b></b></p>
+        <dl>
+            <dt></dt>
+            <dd></dd>
+        </dl>
+        <dl>
+            <dt></dt>
+            <dd></dd>
+        </dl>
+    </div>
+
+    <!--JS-->
+    <script src="bmi_calculator.js"></script>
+</body>
+</html>
