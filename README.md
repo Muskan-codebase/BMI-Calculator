@@ -13,6 +13,10 @@ Developed a responsive and user-friendly BMI Calculator that allows users to inp
 ➡ Enhanced skills in creating visually appealing animations <br>
 ➡ improved understanding of user input, data validation and data processing.<br>
 
+<b>Projects Screenshots/images</b>
+
+![image alt](https://github.com/Muskan-codebase/BMI-Calculator/blob/5b765388477b1019ace9e8fc429ae481bfe1dc0e/index.JPG)
+
 
 
 
