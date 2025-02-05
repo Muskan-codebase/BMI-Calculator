@@ -4,14 +4,14 @@ Developed a responsive and user-friendly <b>BMI Calculator</b> that allows users
 <b>Technologies used:</b> HTML, CSS, Javascript.
 
 <h4>Key Features</h4>
-➡ Validates User inputs to ensure accurate results.<br>
-➡ Provides clear and immediate results on the users BMI classification (eg. Underweight, normal weight, overweight, obese)<br>
-➡ Provides health recommendations & diet plan based on an individuals weight category<br>
+<b>></b>: Validates User inputs to ensure accurate results.<br>
+<b>></b>: Provides clear and immediate results on the users BMI classification (eg. Underweight, normal weight, overweight, obese)<br>
+<b>></b>: Provides health recommendations & diet plan based on an individuals weight category<br>
 
 <h4>Key learnings</h4>
-➡ Gained hands-on experience with JavaScript's <b>DOM manipulation</b> and <b>Event handling.</b><br>
-➡ Enhanced skills in creating visually appealing animations using <b>CSS</b><br>
-➡ improved understanding of user input, data validation and data processing using JavaScript.<br><br>
+<b>></b>: Gained hands-on experience with JavaScript's <b>DOM manipulation</b> and <b>Event handling.</b><br>
+<b>></b>: Enhanced skills in creating visually appealing animations using <b>CSS</b><br>
+<b>></b>: improved understanding of user input, data validation and data processing using JavaScript.<br><br>
 
 <b>Projects Screenshots/images</b>
 
